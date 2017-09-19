@@ -1,0 +1,6 @@
+com\taobao\sso\dao\impl\JedisClientSingle.class
+com\taobao\sso\dao\JedisClient.class
+com\taobao\sso\service\impl\UserServiceImpl.class
+com\taobao\sso\service\UserService.class
+com\taobao\sso\controller\UserController.class
+com\taobao\sso\controller\PageController.class

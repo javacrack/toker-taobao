@@ -1,0 +1,7 @@
+E:\eclipse\tokerTaobao\taobao-orders\src\main\java\com\taobao\order\service\OrderService.java
+E:\eclipse\tokerTaobao\taobao-orders\src\main\java\com\taobao\order\dto\OrderDto.java
+E:\eclipse\tokerTaobao\taobao-orders\src\main\java\com\taobao\order\dao\JedisClient.java
+E:\eclipse\tokerTaobao\taobao-orders\src\main\java\com\taobao\order\controller\OrderController.java
+E:\eclipse\tokerTaobao\taobao-orders\src\main\java\com\taobao\order\dao\impl\JedisClientSingle.java
+E:\eclipse\tokerTaobao\taobao-orders\src\main\java\com\taobao\order\dao\impl\JedisClientCluster.java
+E:\eclipse\tokerTaobao\taobao-orders\src\main\java\com\taobao\order\service\impl\OrderServiceImpl.java

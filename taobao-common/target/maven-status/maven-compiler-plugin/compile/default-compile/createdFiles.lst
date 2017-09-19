@@ -1,0 +1,11 @@
+com\taobao\common\pojo\SearchResult.class
+com\taobao\common\pojo\SolrProduct.class
+com\taobao\common\utils\JsonUtils.class
+com\taobao\common\pojo\EUTreeNode.class
+com\taobao\common\utils\FtpUtil.class
+com\taobao\common\pojo\EUDataGridResult.class
+com\taobao\common\utils\IDUtils.class
+com\taobao\common\pojo\TaoBaoResult.class
+com\taobao\common\pojo\CookieUtils.class
+com\taobao\common\utils\ExceptionUtil.class
+com\taobao\common\utils\HttpClientUtil.class

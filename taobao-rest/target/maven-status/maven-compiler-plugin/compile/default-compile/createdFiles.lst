@@ -1,0 +1,17 @@
+com\taobao\rest\dao\impl\JedisClientSingle.class
+com\taobao\rest\service\ContentService.class
+com\taobao\rest\service\impl\CacheServiceImpl.class
+com\taobao\rest\controller\CategoryController.class
+com\taobao\rest\dto\CategoryDto.class
+com\taobao\rest\service\CacheService.class
+com\taobao\rest\controller\RedisController.class
+com\taobao\rest\service\impl\ProductServiceImpl.class
+com\taobao\rest\service\ProductService.class
+com\taobao\rest\dao\JedisClient.class
+com\taobao\rest\dao\impl\JedisClientCluster.class
+com\taobao\rest\dto\CategoriesDto.class
+com\taobao\rest\controller\ContentController.class
+com\taobao\rest\service\impl\CategoryServiceImpl.class
+com\taobao\rest\service\CategoryService.class
+com\taobao\rest\service\impl\ContentServiceImpl.class
+com\taobao\rest\controller\ProductController.class

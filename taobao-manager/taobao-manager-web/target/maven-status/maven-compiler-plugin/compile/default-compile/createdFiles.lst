@@ -1,0 +1,8 @@
+com\taobao\controller\content\ContentCategoryController.class
+com\taobao\controller\product\ProductSpecificationController.class
+com\taobao\controller\product\CategorySpecificationController.class
+com\taobao\controller\product\CategoryController.class
+com\taobao\controller\content\ContentController.class
+com\taobao\controller\product\ProductController.class
+com\taobao\controller\HomeController.class
+com\taobao\controller\common\PictureController.class

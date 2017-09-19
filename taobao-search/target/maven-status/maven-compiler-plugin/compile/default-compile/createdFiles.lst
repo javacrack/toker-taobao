@@ -1,0 +1,9 @@
+com\taobao\search\dao\SearchDao.class
+com\taobao\search\service\impl\SearchServiceImpl.class
+com\taobao\search\service\impl\SolrProductServiceimpl.class
+com\taobao\search\mapper\SolrProductMapper.class
+com\taobao\search\controller\SolrManagerController.class
+com\taobao\search\dao\impl\SearchDaoImpl.class
+com\taobao\search\service\SolrProductService.class
+com\taobao\search\controller\SearchController.class
+com\taobao\search\service\SearchService.class

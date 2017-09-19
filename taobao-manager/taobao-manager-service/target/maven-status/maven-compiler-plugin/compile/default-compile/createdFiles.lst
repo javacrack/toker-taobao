@@ -1,0 +1,14 @@
+com\taobao\service\PictureService.class
+com\taobao\service\CategoryService.class
+com\taobao\service\impl\ContentCategoryServiceImpl.class
+com\taobao\service\impl\CategoryServiceImpl.class
+com\taobao\service\ContentCategoryService.class
+com\taobao\service\impl\ProductServiceImpl.class
+com\taobao\service\impl\ProductSpecificationServiceImpl.class
+com\taobao\service\ProductService.class
+com\taobao\service\ProductSpecificationService.class
+com\taobao\service\impl\CategorySpecificationServiceImpl.class
+com\taobao\service\impl\ContentServiceImpl.class
+com\taobao\service\impl\PictureServiceImpl.class
+com\taobao\service\CategorySpecificationService.class
+com\taobao\service\ContentService.class
